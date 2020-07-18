@@ -1,0 +1,17 @@
+body {
+  background-color: white;
+}
+
+.start {
+  animation-duration: 5s;
+  background-color: lawngreen;
+}
+
+.main-content {
+  display: flex;
+  justify-content: space-around;
+}
+
+.image-home {
+  width: 350px;
+}
