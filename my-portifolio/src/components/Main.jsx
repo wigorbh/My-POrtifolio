@@ -7,11 +7,7 @@ const Main = () => {
       <hr />
       <div className="main-content">
         <p>
-          Eu sou o William Igor, natural de Belo Horizonte,
-          Lorem Ipsum is simply dummy
-          text of the printing and
-          typesetting industry.
-          Lorem Ipsum has been the
+
       </p>
         <img
           className="image-home"
