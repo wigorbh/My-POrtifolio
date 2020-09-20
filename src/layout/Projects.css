@@ -1,0 +1,13 @@
+.anchor-cards {
+  /* display: flex; */
+  /* justify-content: space-around; */
+}
+
+.project-images {
+  width: 400px;
+  box-shadow: 6px 5px 15px 5px black;
+}
+
+.project-images:active {
+  box-shadow: none;
+}

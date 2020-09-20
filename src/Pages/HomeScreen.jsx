@@ -11,8 +11,8 @@ const HomeScreen = () => {
       <NavBar />
       <div className="content">
         <Main />
-        <Contats />
         <Projects />
+        <Contats />
       </div>
     </>
   )

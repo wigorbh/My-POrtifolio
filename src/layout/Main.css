@@ -1,0 +1,9 @@
+/* .main-content {
+  display: flex;
+  justify-content: space-around;
+} */
+
+.image-home {
+  width: 200px;
+  border-radius: 30%;
+}
